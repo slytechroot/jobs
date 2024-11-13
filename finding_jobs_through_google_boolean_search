@@ -1,0 +1,62 @@
+Finding Jobs Through Google Boolean Search
+Introduction
+
+Discover how to harness the power of Google's advanced search features to find remote jobs efficiently.
+Step-by-Step Guide
+Step 1: Use All These Words
+
+Example Search
+
+allintext: remote software developer job 
+
+This query ensures that all listed words are included in the search results.
+Step 2: Use This Exact Word or Phrase
+
+Example Search
+
+"remote software developer" 
+
+Focus your search on this specific job title to find the most relevant listings.
+Step 3: Use Any of These Words
+
+Example Search
+
+(remote OR telecommute OR "work from home") software developer 
+
+Broaden your search by including various terms for remote work.
+Step 4: Exclude Words
+
+Example Search
+
+software developer remote -intern -internship 
+
+Filter out internships if you're looking for full-time positions.
+Step 5: Numbers Ranging From
+
+Example Search
+
+software developer remote $50000..$100000 
+
+Specify a salary range to find jobs that meet your financial requirements.
+Step 6: Specify Region
+
+Example Search
+
+region:Canada software developer remote 
+
+Narrow down to remote jobs advertised in Canada.
+Step 7: Search Specific Sites
+
+Example Search
+
+site:workable.com OR site:lever.co OR site:greenhouse.io "software developer" remote 
+
+Target specific job boards or career pages for focused results.
+
+    💡 Your new search query should look like this:
+
+("remote software developer" OR telecommute OR "work from home") -intern -internship $50000..$100000 site:workable.com OR site:lever.co OR site:greenhouse.io intext:job 
+
+Conclusion
+
+Using these Google Boolean search techniques, you can streamline your job search process and increase your chances of finding the ideal remote position. Start experimenting with these tips today!
